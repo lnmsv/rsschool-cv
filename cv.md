@@ -1,4 +1,4 @@
-# [rsschool-cv](https://lnmsv.github.com/rsschool-cv/)
+# [rsschool-cv](https://lnmsv.github.io/rsschool-cv/)
 
 # lnmsv
 lorem ipsum dolor
